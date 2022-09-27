@@ -1,16 +1,19 @@
-* {
-    text-align: center;
-    font-family: Calibri, 'Trebuchet MS', sans-serif;
-}
 body {
     background-color: hsl(133, 20%, 49%);
-
-}
-div {
-    font-size: 20px;
-    line-height: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 img {
     height: auto;
-    width: 300px;
+    width: 500px;
+}
+.index {
+    line-height: 200%;
+    font-size: 22px;
+    text-align: center;
+}
+.intro {
+    text-align: center;
+}
+h1 {
+    text-align: center;
 }
